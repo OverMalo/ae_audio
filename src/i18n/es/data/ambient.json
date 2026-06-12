@@ -1,0 +1,10 @@
+{
+  "ambientConfig": {
+    "general": "audios/ambient/general.mp3",
+    "expansiones": {
+      "core": "",
+      "war_eternal": "",
+      "the_new_age": ""
+    }
+  }
+}

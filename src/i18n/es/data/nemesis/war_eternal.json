@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Gate Witch",
+    "description": "",
+    "expansionTag": "war_eternal",
+    "leafDescription": "Yan Magda dice: «En el Vacío contemplé el rostro desgarrado del infinito. Tu gente lo llama la Bruja de los Portales.»\nEl infinito es el dominio de la Bruja: moldearlo, quebrarlo.\n«El tiempo es como el agua», dice Brama. «Fluye a través de nosotros y a nuestro alrededor. Nuestras vidas no son más que gotas de sangre en una gran confluencia.»\nEn mis pocos años de vida he contemplado la malicia del tiempo. Nuestro pasado y nuestro futuro no son más que una mancha roja extendida sobre sus fauces.\n«El final está escrito en las cenizas de su comienzo», predica Phaedraxa.\nMientras observo la tenue luz que baña la ciudad y reflexiono sobre la sabiduría de estas grandes mujeres, las campanas vuelven a sonar. Huelo el aire abrasado de una brecha y siento su calor sobre mi rostro. Otra batalla está a punto de comenzar... y bien podría ser la última.",
+    "audio": {
+      "src": "audios/nemesis/gate_witch.mp3",
+      "title": ""
+    }
+  },
+  {
+    "label": "Hollow Crown",
+    "description": "",
+    "expansionTag": "war_eternal",
+    "leafDescription": "Hay fuerzas oscuras obrando en el interior de Gravehold: maquinaciones, intrigas, conspiraciones. Nuestras filas menguan, incluso tras la llegada de Yan Magda y sus compañeros. La fe es lo único que nos ha mantenido con vida y, sin embargo, es precisamente aquello que más ansía la Corona Hueca.\nSus acólitos fueron en otro tiempo magos, practicantes de rituales prohibidos entre las ruinas de los Craghollows. Magia de sangre, la práctica más abominable que los nuestros pueden cometer. Quién les enseñó sigue siendo un misterio, pero gracias a su devoción la Corona es imparable.\nLa Corona es distinta a las demás. Obliga a quienes la contemplan a rendirle reverencia. Inspira asombro, no miedo. No nos ve como víctimas, sino como futuros adoradores. Gravehold es una jaula perfecta para sus súbditos; por ello, tiene pocos motivos para destruirla.\nOhat dice que no existe destino peor que la muerte. Se equivoca.",
+    "audio": {
+      "src": "audios/nemesis/hollow_crown.mp3",
+      "title": ""
+    }
+  },
+  {
+    "label": "Magus of Cloaks",
+    "description": "",
+    "expansionTag": "war_eternal",
+    "leafDescription": "Vivimos en la oscuridad. Oscuridad y silencio. Solo cuando ellos llegan parece que la ciudad cobra verdadera vida. Las antorchas desgarran las sombras contra los muros de la caverna. Las campanas se unen a nuestras voces mientras nos preparamos para un nuevo asalto.\nEl Mago es una criatura de oscuridad. Con cada golpe, no hacemos más que arrancar una capa de sombras para descubrir otra debajo. Sus esbirros no son más que sombras fragmentadas, cada una sin mente ni vida propia. En un mundo tan sombrío como este, ¿podría existir un amo mayor?",
+    "audio": {
+      "src": "audios/nemesis/magus_of_cloaks.mp3",
+      "title": ""
+    }
+  },
+  {
+    "label": "Umbra Titan",
+    "description": "",
+    "expansionTag": "war_eternal",
+    "leafDescription": "'Resulta extraño decir que jamás hemos visto morir a un Sin Nombre, pero sí hemos presenciado el nacimiento de uno. El Titán Umbra surgió del falso cadáver del Profeta Tres Veces Muerto como una repugnante criatura recién engendrada. Al principio creímos que no era más que alguna aberración grotesca, quizá otro esbirro. Sin embargo, con el tiempo demostró ser una amenaza tan temible como cualquier Némesis. Incluso las bestias nativas de las cavernas parecen rendirle culto. Ruge bajo la piel de la tierra, excavando entre roca y oscuridad como una hoja ciega atravesando carne. El suelo tiembla antes de cada ataque. Es terrible contemplar a la gente sin saber dónde refugiarse, inmóvil mientras espera que aquella monstruosidad emerja... si es que decide emerger. De entre todos los Sin Nombre, el Titán es el más salvaje. Xaxos los considera seres sagrados, pero esto no es un dios ni nada parecido. Es una bestia gobernada por los instintos más primarios: cazar, matar y sobrevivir.'\n\n Indira, Aprendiz de la brecha",
+    "audio": {
+      "src": "audios/nemesis/umbra_titan.mp3",
+      "title": ""
+    }
+  }
+]

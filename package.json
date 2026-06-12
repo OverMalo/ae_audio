@@ -1,0 +1,15 @@
+{
+  "name": "ae_audio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node scripts/i18n-check.cjs"
+  },
+  "devDependencies": {
+    "vite": "^8.0.1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "start": {
+    "title": "Aeon's End",
+    "description": "",
+    "options": [
+      {
+        "label": "Magues",
+        "description": "",
+        "next": "magues"
+      },
+      {
+        "label": "Nemesis",
+        "description": "",
+        "next": "nemesis"
+      },
+      {
+        "label": "Expeditions",
+        "description": "",
+        "next": "expeditions"
+      }
+    ]
+  }
+}
