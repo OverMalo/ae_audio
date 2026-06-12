@@ -1,4 +1,4 @@
-const CACHE_VERSION = "v10";
+const CACHE_VERSION = "v11";
 const STATIC_CACHE = `ae-static-${CACHE_VERSION}`;
 const RUNTIME_CACHE = `ae-runtime-${CACHE_VERSION}`;
 const SOUNDTRACK_CACHE = "ae-soundtrack-v2";
