@@ -20,6 +20,16 @@
     }
   },
   {
+    "label": "Knight of Shackles",
+    "description": "",
+    "expansionTag": "war_eternal",
+    "leafDescription": "Thraxir murió antes de que yo llegara a formar parte de los magos. Se decía que era el guerrero más valiente y hábil de todo Gravehold. A pesar de su destreza, encontró la muerte a manos de Rageborne, desgarrado en dos como si fuera una frágil muñeca. Como todos los nuestros, fue enterrado en las sombras, arrojado a Las Profundidades junto a generaciones de caídos. Hasta el día de hoy, nadie ha heredado su manto de comandante.\nAlgunos creen... Mist cree que Thraxir ha regresado convertido en una de las mismas abominaciones contra las que entregó su vida luchando. Y, en honor a la verdad, el Caballero parece conocer demasiado bien nuestras defensas. Su dominio de las brechas es comparable al de nuestros propios magos. Comanda un ejército de muertos, todos ellos con ojos semejantes a las gemas de los magos. ¿O acaso no es más que una coincidencia, una estratagema cuidadosamente urdida por nuestros enemigos? Si Thraxir pudo ser corrompido... ¿podrá también ser salvado?",
+    "audio": {
+      "src": "audios/nemesis/knight_of_shackles.mp3",
+      "title": ""
+    }
+  },
+  {
     "label": "Magus of Cloaks",
     "description": "",
     "expansionTag": "war_eternal",
@@ -30,12 +40,42 @@
     }
   },
   {
+    "label": "Maiden of Thorns",
+    "description": "",
+    "expansionTag": "war_eternal",
+    "leafDescription": "Adelheim contempla a la Doncella con una extraña admiración. Después de todo, es una especie de arma. Y, como todas las armas, su propósito es sencillo: matar.\nEso no significa que carezca de mente. De hecho, ocurre todo lo contrario. Se deleita en la crueldad. No existe una muerte rápida ni misericordiosa a manos de esta criatura o de las de su especie. El sufrimiento es para ella lo que el aire es para los pulmones o la sangre para las venas.\nXaxos se pregunta si se alimenta del conocimiento. La hemos visto beber del interior de los cráneos de magos caídos en numerosas ocasiones. El pobre Gadymir, que apenas acababa de ganarse el título de mago, fue atravesado por el casco. Y aunque la herida apenas fue superficial, olvidó su nombre, su formación, todo cuanto era. Ahora arrastra un carro por el mercado de tierra para Ohat.\n¿No les basta con arrebatarnos la vida? ¿Deben los Sin Nombre borrar también aquello que somos?",
+    "audio": {
+      "src": "audios/nemesis/maiden_of_thorns.mp3",
+      "title": ""
+    }
+  },
+  {
+    "label": "Thrice-Dead Prophet",
+    "description": "",
+    "expansionTag": "war_eternal",
+    "leafDescription": "Se creía imposible matar a los Sin Nombre, y sin embargo lo hicimos. O eso creíamos...\nLa primera vez que abatimos al Profeta, pareció demasiado fácil. Salió tambaleándose del vacío, su enorme cuerpo revestido con los rostros de dioses cuyos nombres ya habíamos olvidado. Caímos sobre él de inmediato, como un enjambre de escarabajos sobre una carroña. No se defendió, o al menos eso parecía. Y en nuestra precipitación nos creímos vencedores.\nLa segunda vez que luchamos contra la criatura, sus esbirros nos llevaron al límite. Fryla, una maga inexperta, encontró la muerte aquel día, aplastada por la inmensidad del monstruo cuando volvió a desplomarse sin vida. En uno de sus últimos espasmos, derribó una sección entera del Muro Sur y se llevó consigo a otras veinte personas.\nLa tercera vez debía ser la definitiva. Sparrow le cercenó la cabeza sin rostro, pero no sirvió de nada. Sin Yan Magda y los demás, Gravehold habría caído aquel día. Esta vez el Profeta permaneció inmóvil, como una estatua de piedra, durante una hora. Entonces, del muñón de su cuello emergió el Titán Umbra. La bestia se cobró la vida de nueve magos más antes de que Ulgimor la obligara a descender a las Profundidades. Y aquella fue nuestra única victoria de la jornada: la creación accidental de Ulgimor.\nAhora sabemos que cada una de nuestras victorias no fue más que una finta, una prueba de nuestro temple y de nuestra habilidad. Que la cuarta vez que el Profeta muera sea la última. La muerte final y definitiva.",
+    "audio": {
+      "src": "audios/nemesis/thrice_dead_prophet.mp3",
+      "title": ""
+    }
+  },
+  {
     "label": "Umbra Titan",
     "description": "",
     "expansionTag": "war_eternal",
-    "leafDescription": "'Resulta extraño decir que jamás hemos visto morir a un Sin Nombre, pero sí hemos presenciado el nacimiento de uno. El Titán Umbra surgió del falso cadáver del Profeta Tres Veces Muerto como una repugnante criatura recién engendrada. Al principio creímos que no era más que alguna aberración grotesca, quizá otro esbirro. Sin embargo, con el tiempo demostró ser una amenaza tan temible como cualquier Némesis. Incluso las bestias nativas de las cavernas parecen rendirle culto. Ruge bajo la piel de la tierra, excavando entre roca y oscuridad como una hoja ciega atravesando carne. El suelo tiembla antes de cada ataque. Es terrible contemplar a la gente sin saber dónde refugiarse, inmóvil mientras espera que aquella monstruosidad emerja... si es que decide emerger. De entre todos los Sin Nombre, el Titán es el más salvaje. Xaxos los considera seres sagrados, pero esto no es un dios ni nada parecido. Es una bestia gobernada por los instintos más primarios: cazar, matar y sobrevivir.'\n\n Indira, Aprendiz de la brecha",
+    "leafDescription": "Resulta extraño decir que jamás hemos visto morir a un Sin Nombre, pero sí hemos presenciado el nacimiento de uno. El Titán Umbra surgió del falso cadáver del Profeta Tres Veces Muerto como una repugnante criatura recién engendrada. Al principio creímos que no era más que alguna aberración grotesca, quizá otro esbirro. Sin embargo, con el tiempo demostró ser una amenaza tan temible como cualquier Némesis. Incluso las bestias nativas de las cavernas parecen rendirle culto. Ruge bajo la piel de la tierra, excavando entre roca y oscuridad como una hoja ciega atravesando carne. El suelo tiembla antes de cada ataque. Es terrible contemplar a la gente sin saber dónde refugiarse, inmóvil mientras espera que aquella monstruosidad emerja... si es que decide emerger. De entre todos los Sin Nombre, el Titán es el más salvaje. Xaxos los considera seres sagrados, pero esto no es un dios ni nada parecido. Es una bestia gobernada por los instintos más primarios: cazar, matar y sobrevivir.",
     "audio": {
       "src": "audios/nemesis/umbra_titan.mp3",
+      "title": ""
+    }
+  },
+  {
+    "label": "Wraithmonger",
+    "description": "",
+    "expansionTag": "war_eternal",
+    "leafDescription": "Dormir es un lujo del que rara vez se disfruta en Gravehold. Soñar lo es aún más. Por eso resulta una de las bromas más crueles del destino que los Sin Nombre cuenten entre sus filas con una criatura que domina ambas cosas.\nWraithmonger no nació del Vacío como los demás. Acecha en el interior de nuestras mentes, un horror informe enterrado en lo más profundo de cada uno de nosotros. Solo cuando soñamos se manifiesta en el mundo más allá del sueño. Centellea en la oscuridad sobre la ciudad, inquietantemente hermoso mientras se arrastra fuera del cráneo de cada durmiente. Sus zarcillos ondulan en el aire inmóvil, absorbiendo el terror a medida que se eleva para alimentarse.\nDicen que Yan Magda ya no duerme, después de haber pasado eones en el Mausoleo Negro. Pero el resto de nosotros sí debemos hacerlo. ¿Nos atreveremos a soñar y despertar al monstruo que habita en nuestras cabezas?\nEntonces, no soñemos con nada.",
+    "audio": {
+      "src": "audios/nemesis/wraithmonger.mp3",
       "title": ""
     }
   }
