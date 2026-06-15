@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "label": "Ageless Walker",
+    "description": "",
+    "expansionTag": "the_new_age",
+    "leafDescription": "Los humanos no están hechos para mezclarse con la magia del Vacío. Los seguidores de Xaxos juegan con poderes que escapan a la comprensión de cualquiera. Ageless Walker fue una vez un hombre llamado Karak, un devoto seguidor de Xaxos. Era un amigo cercano de Arachnos y se sometió voluntariamente al ritual. Quería impregnarse de la fuerza de los Sin Nombre, obtener su poder. Sin embargo, cuando la energía del Vacío fluyó en su interior, en lugar de hacerlo más fuerte comenzó a consumir su vida. Arachnos oyó los gritos, pero se negó a detener el ritual. Creía en sus cálculos por encima de todo, seguro de su talento indiscutible. Cuanto más absorbía Karak, más envejecía, hasta que no quedó nada salvo huesos. Pero el ritual no se detuvo con su muerte. Karak se deformó más allá de ella, volviéndose extraño y monstruoso, pudriéndose y creciendo al mismo tiempo. Cuando el ritual concluyó por fin, Karak había desaparecido, sustituido por una criatura que solo podía describirse como un Sin Nombre. Arachnos y los demás seguidores se vieron obligados a huir del monstruo que habían creado. Ahora, el Caminante Eterno parece no conservar recuerdo alguno de haber sido humano. Mata sin distinción, llevando la muerte y la decadencia allá por donde camina",
+    "audio": {
+      "src": "audios/nemesis/the_new_age/ageless_walker.mp3",
+      "title": ""
+    }
+  },
+  {
+    "label": "Arachnos",
+    "description": "",
+    "expansionTag": "the_new_age",
+    "leafDescription": "Brama dice: 'Arachnos fue una vez uno de los nuestros, un mago de brechas de confianza y un amigo. Estaba profundamente entregado a los ideales de Xaxos e intentó reproducir sus experimentos, asegurando que los efectos secundarios adversos podrían mitigarse si tan solo se le permitía investigar más. Cuando el Consejo de Ancianos condenó su trabajo y le obligó a detenerse, la ira se apoderó de él. Reunió a un grupo de individuos afines y los condujo a una rebelión contra Nuevo Gravehold. Superados en número y en poder, acabaron siendo desterrados del refugio seguro de la ciudad que habían despreciado. Sin embargo, el exilio no aplacó su sed de conocimiento. Él y sus seguidores continuaron trabajando en los experimentos de Xaxos, llegando incluso a mejorar los diseños originales. Arachnos quedó consumido por la convicción de que el poder de los Sin Nombre podía ser aprovechado para proteger a la humanidad, una creencia que lo llevó a tomar atajos en su investigación y a precipitarse hacia un ritual peligroso y apenas probado. Los resultados corruptos de aquellos rituales aún acechan en los bosques. Los ciudadanos de Nuevo Gravehold dan por resuelto el asunto de Arachnos, reducido a una vida sencilla en las tierras salvajes. Me preocupa lo que podría ocurrir si llegaran a conocer su verdadero destino y el poder que alcanzó. No solo estamos rodeados de monstruos, sino también de enemigos de nuestra propia especie.'",
+    "audio": {
+      "src": "audios/nemesis/the_new_age/arachnos.mp3",
+      "title": ""
+    }
+  },
+  {
+    "label": "Fenrix",
+    "description": "",
+    "expansionTag": "the_new_age",
+    "leafDescription": "Fragmento de los diarios de Arachnos:'Exilio: año tres, día 264. Ha llegado el momento de poner a prueba el ritual de nuevo. Creo que por fin he descubierto la causa de mi último fracaso. Las runas que diseñé para estabilizar la brecha no pudieron soportar la tensión y colapsaron a mitad del experimento. El cierre repentino de la brecha selló dentro del Vacío al conejo con el que estaba trabajando. Me pregunto qué será de él... pero un proyecto cada vez. He ajustado las runas para que soporten la cantidad de energía que consume el ritual, y Karak ha conseguido capturar vivo a un lobo para usarlo como mi siguiente sujeto. Sin duda, un animal más grande y más fuerte será un candidato mejor para sobrevivir a la esencia del Vacío con la que debo alimentarlo. Si mis hipótesis son correctas, la criatura se adaptará y crecerá con la energía del Vacío, mutando hasta adoptar una forma capaz de contenerla adecuadamente. Debo confesar que estoy entusiasmado. Hoy podríamos contemplar el futuro mismo de nuestra especie. Si tengo éxito en este intento, podré comenzar de inmediato las pruebas con humanos.'",
+    "audio": {
+      "src": "audios/nemesis/the_new_age/fenrix.mp3",
+      "title": ""
+    }
+  },
+  {
+    "label": "Maggoth",
+    "description": "",
+    "expansionTag": "the_new_age",
+    "leafDescription": "Hace muchos años, cuando aún vivían bajo tierra, los magos de brechas de Gravehold combatieron las hordas de una criatura a la que llamaban la Reina Caparazón. Aquel Sin Nombre insectoide se alzaba imponente sobre los magos de brechas y sobre la propia Gravehold. Atacaba con enjambres de cascarones, siempre buscando desbordar a sus enemigos. Los magos lograron destruir a la Reina, comprando tiempo para que el pueblo de Gravehold pudiera huir. Sin embargo, en su prisa por seguir avanzando, no fueron tan meticulosos como de costumbre. Una de sus criaturas, una Matriz de Cría, sobrevivió a aquella batalla final. Excavó hasta abrirse paso a la superficie, alimentándose de carroña y recuperando sus fuerzas. Cuando Arachnos y sus seguidores la encontraron, no estaba en condiciones de defenderse, lo que les brindó una oportunidad excepcional: capturar y estudiar con vida a una criatura procedente del Vacío. Arachnos probó sus rituales con ella, alimentándola poco a poco con la energía de sus brechas, como si fuera un bebé lactante. Catalogó su crecimiento y observó cómo se volvía cada vez más grande y poderosa. Los experimentos de Arachnos pueden ser considerados inmorales por el pueblo de Nuevo Gravehold, pero sus notas sobre el crecimiento de Maggoth podrían ofrecer profundos conocimientos sobre la naturaleza de las criaturas nacidas del Vacío. Al fin y al cabo, Arachnos es el único ser humano de la historia con el dudoso honor de haber creado un Sin Nombre",
+    "audio": {
+      "src": "audios/nemesis/the_new_age/maggoth.mp3",
+      "title": ""
+    }
+  },
+  {
+    "label": "The Wailing",
+    "description": "",
+    "expansionTag": "the_new_age",
+    "leafDescription": "Sahala dice: 'Si te adentras lo suficiente en el bosque, aún puedes encontrar pruebas de nuestras batallas contra un Sin Nombre conocido como Blight Lord, de una época anterior a nuestra retirada bajo tierra. Humanos de tiempos antiguos permanecen dispersos entre los árboles, perfectamente preservados en jade verde, con los rostros convertidos en trágicas máscaras de agonía y miedo. Nuestras ciudades ancestrales hace mucho que se desmoronaron hasta convertirse en polvo, pero este horrendo Sin Nombre nos ha dejado un vínculo con el Mundo que Fue. Estas figuras inmóviles son un monumento a nuestro fracaso pasado, a nuestra incapacidad para protegernos y a la certeza de que todo cuanto construimos está destinado a derrumbarse. Gravehold ha desaparecido. La historia se repite. Recientemente, los exploradores han informado de árboles encerrados en ónice azul puro, una piedra ennegrecida por vetas de oscuridad. Quienes oyen los espantosos gritos de The Wailing quedan infectados por su ónice. Este incuba en sus venas, brota a través de su piel y se extiende como una plaga. Los movimientos de las víctimas se vuelven cada vez más lentos, hasta detenerse por completo para siempre, preservadas y atrapadas.'",
+    "audio": {
+      "src": "audios/nemesis/the_new_age/the_wailing.mp3",
+      "title": ""
+    }
+  },
+  {
+    "label": "The Wanderer",
+    "description": "",
+    "expansionTag": "the_new_age",
+    "leafDescription": "Brama dice: 'Tal vez la historia esté destinada a repetirse en ciclos. El Mundo que Fue cayó, igual que cayó Gravehold. Cualquier mago de brechas sensato y realista sabe que nuestro nuevo hogar, por mucho que tratemos de defenderlo, probablemente esté condenado al mismo destino. La única pregunta es cuándo. ¿Cuánto tiempo podremos mantener la historia a raya y ofrecer a nuestros hijos un lugar seguro donde crecer? Gravehold conserva extensos registros de cada Sin Nombre al que nos hemos enfrentado, para que podamos aprender de nuestras batallas pasadas. Por desgracia, muchos se perdieron durante la Caída, pero logramos salvar algunos. Cuando nuestros exploradores trajeron los primeros informes sobre esta criatura, me resultó familiar, pero me he enfrentado a tantos Sin Nombre que mi memoria empieza a difuminarse entre la edad y el agotamiento. Mazra y yo pasamos horas en los archivos y descubrimos una conexión con un antiguo enemigo llamado The Wayward One. A medida que leíamos, el recuerdo de aquella criatura fue regresando lentamente a mí. Resulta difícil definir a los Sin Nombre en conjunto, porque adoptan formas muy distintas, pero a veces existen similitudes. Al igual que aquel Sin Nombre anterior, este Wanderer parece poseer una forma física vacilante e inconstante. Puede que resulte difícil dañar a The Wanderer con fuego puro, pero vencimos a su pariente, y también venceremos a este.'",
+    "audio": {
+      "src": "audios/nemesis/the_new_age/the_wanderer.mp3",
+      "title": ""
+    }
+  }
+  
+]
