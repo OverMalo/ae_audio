@@ -6,15 +6,15 @@ export function composeAppData(p) {
     ...p.start,
     magues: {
       ...p.maguesBase,
-      options: [...p.maguesCore, ...p.maguesWE, ...p.maguesTNA],
+      options: [...p.maguesCore, ...p.maguesWE, ...p.maguesTNA, ...p.maguesOutcast, ...p.maguesBeyondBreach],
     },
     nemesis: {
       ...p.nemesisBase,
-      options: [...p.nemesisCore, ...p.nemesisWE, ...p.nemesisTNA],
+      options: [...p.nemesisCore, ...p.nemesisWE, ...p.nemesisTNA, ...p.nemesisOutcast, ...p.nemesisBeyondBreach],
     },
     expeditions: {
       ...p.expeditionsBase,
-      options: [...p.expeditionsCore, ...p.expeditionsWE, ...p.expeditionsTNA],
+      options: [...p.expeditionsCore, ...p.expeditionsWE, ...p.expeditionsTNA, ...p.expeditionsOutcast, ...p.expeditionsBeyondBreach],
     },
     ...p.ambientConfig,
   };

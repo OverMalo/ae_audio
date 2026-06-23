@@ -9,29 +9,35 @@ import _maguesBase from "./i18n/es/data/magues/_base.json";
 import _maguesCore from "./i18n/es/data/magues/core.json";
 import _maguesWE from "./i18n/es/data/magues/war_eternal.json";
 import _maguesTNA from "./i18n/es/data/magues/the_new_age.json";
+import _maguesOutcast from "./i18n/es/data/magues/outcast.json";
+import _maguesBeyondBreach from "./i18n/es/data/magues/beyond_breach.json";
 import _nemesisBase from "./i18n/es/data/nemesis/_base.json";
 import _nemesisCore from "./i18n/es/data/nemesis/core.json";
 import _nemesisWE from "./i18n/es/data/nemesis/war_eternal.json";
 import _nemesisTNA from "./i18n/es/data/nemesis/the_new_age.json";
+import _nemesisOutcast from "./i18n/es/data/nemesis/outcast.json";
+import _nemesisBeyondBreach from "./i18n/es/data/nemesis/beyond_breach.json";
 import _expeditionsBase from "./i18n/es/data/expeditions/_base.json";
 import _expeditionsCore from "./i18n/es/data/expeditions/core.json";
 import _expeditionsWE from "./i18n/es/data/expeditions/war_eternal.json";
 import _expeditionsTNA from "./i18n/es/data/expeditions/the_new_age.json";
+import _expeditionsOutcast from "./i18n/es/data/expeditions/outcast.json";
+import _expeditionsBeyondBreach from "./i18n/es/data/expeditions/beyond_breach.json";
 import _ambientConfig from "./i18n/es/data/ambient.json";
 
 const appData = {
   ..._start,
   magues: {
     ..._maguesBase,
-    options: [..._maguesCore, ..._maguesWE, ..._maguesTNA],
+    options: [..._maguesCore, ..._maguesWE, ..._maguesTNA, ..._maguesOutcast, ..._maguesBeyondBreach],
   },
   nemesis: {
     ..._nemesisBase,
-    options: [..._nemesisCore, ..._nemesisWE, ..._nemesisTNA],
+    options: [..._nemesisCore, ..._nemesisWE, ..._nemesisTNA, ..._nemesisOutcast, ..._nemesisBeyondBreach],
   },
   expeditions: {
     ..._expeditionsBase,
-    options: [..._expeditionsCore, ..._expeditionsWE, ..._expeditionsTNA],
+    options: [..._expeditionsCore, ..._expeditionsWE, ..._expeditionsTNA, ..._expeditionsOutcast, ..._expeditionsBeyondBreach],
   },
   ..._ambientConfig,
 };
@@ -42,7 +48,7 @@ const sidebarEl = document.getElementById("sidebar");
 // Solo los IDs son estables; las etiquetas mostradas se traducen con t() en
 // tiempo de render (expansiones.<id> en los .json de i18n).
 const FILTER_OPTIONS = {
-  expansiones: ["core", "war_eternal", "the_new_age"]
+  expansiones: ["core", "war_eternal", "the_new_age", "outcast", "beyond_breach"]
 };
 
 const expansionLabel = (id) => t(`expansiones.${id}`);
@@ -2606,7 +2612,9 @@ function normalizeExpansionTag(value) {
     v === "all" ||
     v === "core" ||
     v === "war_eternal" ||
-    v === "the_new_age"
+    v === "the_new_age" ||
+    v === "outcast" ||
+    v === "beyond_breach"
   ) {
     return v;
   }

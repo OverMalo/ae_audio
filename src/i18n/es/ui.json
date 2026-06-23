@@ -38,7 +38,9 @@
     "all": "Todas",
     "core": "Core",
     "war_eternal": "War Eternal",
-    "the_new_age": "The New Age"
+    "the_new_age": "The New Age",
+    "outcast": "Outcast",
+    "beyond_breach": "Beyond the Breach"
   },
   "content": {
     "selectProvince": "Selecciona una expansión en el menú lateral para comenzar.",

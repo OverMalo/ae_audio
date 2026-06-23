@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Battle 1 Introduction",
+    "description": "",
+    "expansionTag": "outcast",
+    "leafDescription": "Azer es una aldea llena de vida, un resplandor de actividad en medio de un bosque por lo demás silencioso. Z’hana está sentada en la orilla del río que serpentea por el centro del pueblo y contempla las aguas brillantes. De las cabañas dispersas brota el murmullo de las conversaciones y, a su alrededor, los niños corren y juegan en la hierba. Es un lugar casi lo bastante apacible como para olvidar el dolor y la destrucción que los Sin Nombre han causado en este mundo. Su hijo Taqren se sienta a su lado y también mira el río.\n—Este lugar es hermoso y está lleno de una magia de brecha increíble. Podríamos aprender muchísimo si pasáramos aquí unos meses más.\nTaqren se cruza de brazos, y Z’hana espera a que llegue el inevitable “pero”.\n—Pero no es nuestro hogar.\nZ’hana cierra los ojos despacio, llevándose una mano al pecho.\n—Sabes que no puedo volver, Taqren. No después de lo que hice.\n—Han pasado meses, madre. Ponte a merced de Brama. Es una mujer sabia.\n—Es corta de miras —espeta Z’hana—. Lo que ocurrió en Southpost fue una tragedia, pero no me arrepiento de haberme vuelto contra ella. Nuevo Gravehold necesita evolucionar, o nos dirigiremos de cabeza hacia otra Caída. Y eso podría significar el fin de todos.\n—Si tan solo pudieras hablar con—\nTaqren se ve interrumpido por un grito repentino desde lo alto de una colina cercana. Dos jóvenes se alzan en la cima, con las manos tatuadas entrelazadas y resplandecientes de energía mágica. Kel e Ilya.\n—¡Tenemos que llegar al lado norte del pueblo! ¡Deprisa!\nZ’hana es la primera en ponerse en marcha; largos años de entrenamiento arraigados en lo más hondo la impulsan, con su hijo siguiéndola de cerca. Al coronar la colina, aquella sensación de seguridad que había entibiado brevemente su corazón se desvanece y da paso a una realidad helada. Una criatura enorme permanece encorvada de forma amenazadora entre los árboles, con saliva goteando de su boca distendida. De su cabeza brotan cuatro largos tentáculos que serpentean y crecen hacia los civiles que huyen, cada uno con sus propias fauces dentadas.\n—¿Dónde están los demás magos? —pregunta Z’hana.\nIlya niega con la cabeza.\n—Todos están patrullando o de caza. Somos los únicos que quedan.\nKel suelta una maldición seca.\n—Un nacido del portal en la aldea. ¿Adónde está yendo a parar el mundo?\n—A nada bueno.\nTaqren gira las muñecas e invoca sus escudos mágicos. Los cuatro magos avanzan, interponiéndose entre Azer y el monstruo que aguarda a sus puertas.",
+    "audio": {
+      "src": "audios/expeditions/outcast/battle_01_intro.mp3",
+      "title": ""
+    }
+  },
+  {
+    "label": "Battle 1 Conclusion",
+    "description": "",
+    "expansionTag": "outcast",
+    "leafDescription": "Cuando las últimas fauces son cercenadas de la cabeza de la criatura, el Sin Nombre grita y se desploma contra el suelo. Taqren baja sus escudos con gesto triunfal y se vuelve hacia el grupo para unirse a la celebración. De pronto, la criatura abre los ojos y ruge con una ira impía. Se alza, con la sangre aún manándole de los oídos, y se lanza hacia Taqren enseñando los dientes. Z’hana corre para proteger a su hijo, sabiendo que no llegará a tiempo. Extiende un brazo en un gesto desesperado y, justo entonces, una brecha oscura se resquebraja en el cielo. De ella desciende Xaxos, envuelto en fuego negro, y cae sobre el Sin Nombre, hundiéndolo contra la tierra. La criatura, ya en las últimas, se derrumba por el impacto, y Xaxos la arrastra consigo en la caída. Taqren alza la vista hacia su improbable salvador. Todos los años que Xaxos ha pasado en el Vacío lo han deformado. Escamas negras le trepan por los brazos, y sus dedos terminan en garras cruelmente curvadas. Casi parece más un Sin Nombre que un ser humano.",
+    "audio": {
+      "src": "audios/expeditions/outcast/battle_01_concl.mp3",
+      "title": ""
+    }
+  }
+]

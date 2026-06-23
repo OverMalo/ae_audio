@@ -104,7 +104,7 @@ if (base) {
 
 // ── 3. Expansiones ─────────────────────────────────────────────────────────
 console.log("\n[3] Etiquetas de expansiones");
-const EXPANSIONES = ["core", "war_eternal", "the_new_age"];
+const EXPANSIONES = ["core", "war_eternal", "the_new_age", "outcast", "beyond_breach"];
 if (base) {
   let bad = 0;
   for (const id of EXPANSIONES) if (!resolve(base, `expansiones.${id}`)) { fail(`Falta expansiones.${id}`); bad++; }
